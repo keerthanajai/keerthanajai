@@ -31,6 +31,9 @@ Snowflake data warehouse with 7 dbt models, 19 automated data quality checks acr
 ### AI-Driven Demand Forecasting for Perishable Retail
 8-source ML pipeline using Apache Spark across 31.7M records. XGBoost baseline with SHAP analysis achieving 36.5% MAE and 55% RMSE reduction over naive baseline across 54 stores and 986 SKUs.
 
+[View Repository — Preprocessing Pipeline](https://github.com/keerthanajai/Perishable-retail-forecasting-pipeline) · [View Repository — Demand Intelligence Agent](https://github.com/keerthanajai/Perishable-Retail-Agent)
+
+
 ### LLM-Powered Customer Support Intelligence
 End-to-end RAG pipeline using SBERT, FAISS, and OpenAI GPT-4o-mini. Achieved 65.2% classification accuracy across 8,469 support tickets, a 4.6x improvement over TF-IDF baseline.  
 [View Repository](https://github.com/keerthanajai/LLM-Powered-Customer-Support-Complaint-Intelligence)
