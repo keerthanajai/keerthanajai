@@ -28,10 +28,10 @@ I build production-scale ML pipelines, LLM-powered applications, and automated d
 Snowflake data warehouse with 7 dbt models, 19 automated data quality checks across 3.3M rows, and an LLM-powered Text-to-SQL interface for plain English queries against 461K tracks and 50K playlists.  
 [View Repository](https://github.com/keerthanajai/spotify-text-to-sql)
 
-### AI-Driven Demand Forecasting for Perishable Retail
-8-source ML pipeline using Apache Spark across 31.7M records. XGBoost baseline with SHAP analysis achieving 36.5% MAE and 55% RMSE reduction over naive baseline across 54 stores and 986 SKUs.
+### AI-Driven Demand Intelligence Agent for Perishable Retail
+End-to-end agentic AI system combining a production-grade XGBoost forecasting model trained on 31.7M+ records with a Claude-powered ReAct agent that autonomously chains tool calls to deliver plain-English inventory recommendations. Integrates 8 data sources including sales transactions, weather signals, oil prices, and trade data processed using PySpark, with 54 engineered features and SHAP explainability baked into every prediction. FastAPI backend exposes endpoints for inference, explanation, and conversational chat, with the agent reasoning across four tools — demand forecasting, SHAP-based explanation, sales history retrieval, and inventory recommendation — served through a custom HTML/JS chat interface.
 
-[View Repository — Preprocessing Pipeline](https://github.com/keerthanajai/Perishable-retail-forecasting-pipeline) · [View Repository — Demand Intelligence Agent](https://github.com/keerthanajai/Perishable-Retail-Agent)
+[View Repository — Demand Intelligence Agent](https://github.com/keerthanajai/Perishable-Retail-Agent) · [View Repository — Preprocessing Pipeline](https://github.com/keerthanajai/Perishable-retail-forecasting-pipeline)
 
 
 ### LLM-Powered Customer Support Intelligence
