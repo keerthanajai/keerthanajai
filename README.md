@@ -1,4 +1,4 @@
-# Hi, I'm Jai Keerthana 👋
+# Hi, I'm Jai Keerthana 
 
 M.S. Data Science @ Arizona State University (Graduating May 2026)  
 GPA: 3.7 | Tempe, AZ  
